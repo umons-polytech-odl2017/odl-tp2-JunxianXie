@@ -9,11 +9,11 @@ public class Exercise1 {
 
 	public Employee buildBaseSalaryPlusCommissionEmployee(String name, int baseSalary, int commission) {
 
-		return null;
+		return new BaseSalaryPLusComissionEmployee(name,baseSalary,commission);
 
 	}
 
-	public Employee buildWorkHourSalaryEmployee(String name, int hourlyRoute) {
-		return null;
+	public Employee buildWorkHourSalaryEmployee(String name, int hourlyRate){
+	return new WorkHourSalaryEmployee(name,hourlyRate);
 	}
 }
