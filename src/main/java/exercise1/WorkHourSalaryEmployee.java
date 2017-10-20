@@ -23,4 +23,5 @@ public class WorkHourSalaryEmployee extends Employee {
 	public int computeSalary() {
 		return hourlyRate*hours;
 	}
+
 }
