@@ -1,4 +1,4 @@
-= Programmation en Java : superclasses abstraites et interfaces
+https://github.com/umons-polytech-odl2017/odl-tp2-JunxianXie= Programmation en Java : superclasses abstraites et interfaces
 François Roland <francois.roland@umons.ac.be>
 2017-10-20
 :icons: font
